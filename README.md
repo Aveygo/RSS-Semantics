@@ -43,4 +43,4 @@ Up/Down : Select and scroll to different news articles
 Others : Adds the character to the query for specific headlines
 
 ## Todo
-Add multithreading support to download rss feads
+Add multithreading support to download rss feeds
