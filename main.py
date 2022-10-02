@@ -59,7 +59,7 @@ class RenderArticles:
         self.min_item_index = 0
 
         # Commands 
-        self.center_text = "| 0:quit | 1:add to similar | 2:remove + sort by similar | 3:clear similar | 4:reset & get latest | 5:extract headlines | 6:shuffle | enter:copy url | up/down:scroll |"
+        self.center_text = "| 0:quit | 1:extract | 2:filter | 3:clear | 4:reset | 5:headlines | 6:shuffle | enter:copy | up/down:scroll |"
         
         # Current user query for news titles
         self.user_query = ""
