@@ -32,7 +32,7 @@ By default there are 34 rss sources, but you can add your own by editing the "ma
 
 4 : Reset to default state and update newly found items
 
-5 : Find headlines and sort by probability
+5 : Find headlines and sort by probability (rerunning will give different results)
 
 6 : Randomly shuffle the current items
 
