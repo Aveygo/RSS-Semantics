@@ -6,6 +6,8 @@ Query news articles, discover headlines, filter by topic; For any rss feed, as q
 ### Note!
 Only tested on Linux
 
+No database, found articles are only stored in memory
+
 ## Steps to run:
 1. Install libraries
 (pytorch with cuda from [here](https://pytorch.org/get-started/locally/))
@@ -44,3 +46,5 @@ Others : Adds the character to the query for specific headlines
 
 ## Todo
 Add multithreading support to download rss feeds
+
+Add a database?
