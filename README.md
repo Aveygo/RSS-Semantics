@@ -1,4 +1,6 @@
-# RSS-Semantics
+# RSS-Semantics - NOT MAINTAINED
+Use [SemanticNews](https://github.com/Aveygo/SemanticNews)
+
 Query news articles, discover headlines, filter by topic; For any rss feed, as quickly as possible.
 
 ![Sample photo](https://raw.githubusercontent.com/Aveygo/RSS-Semantics/main/sample.png "Logo Title Text 1")
