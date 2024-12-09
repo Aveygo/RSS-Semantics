@@ -1,4 +1,4 @@
-# RSS-Semantics - NOT MAINTAINED
+# ⚠️ Moved to [AutoInt](https://github.com/Aveygo/AutoInt)
 Use [SemanticNews](https://github.com/Aveygo/SemanticNews)
 
 Query news articles, discover headlines, filter by topic; For any rss feed, as quickly as possible.
